@@ -1,0 +1,27 @@
+.odd{
+    background-color: rgb(250, 153, 153);
+    color: black;
+    font-size: 18px;
+}
+
+.odd.cool {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.even {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.even#two {
+    background-color: white;
+    color: rgb(34, 34, 199);
+    font-size: 64px;
+}
+
+.even#four {
+    background-color: rgb(130, 212, 130);
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+}
